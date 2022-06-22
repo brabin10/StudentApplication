@@ -6,6 +6,8 @@ Student Info App developed using Java/Spring Boot, ReactJs and its features.
 * JavaScript
 * Java
 * React.js
+* Ajax
+* Hibernate
 * Hooks
 * Spring Boot
 * Spring Data
