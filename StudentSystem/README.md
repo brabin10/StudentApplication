@@ -1,6 +1,15 @@
 # StudentApplication
 Student Info App developed using Java/Spring Boot, ReactJs and its features.
 
+## Prerequisites
+* Node JS
+* Java 8, 11 or higher
+* MySql Database
+* STS or Any IDE
+* VsCode
+* Postman
+* Material UI
+
 ## Technologies Used
 * HTML/CSS
 * JavaScript
@@ -9,6 +18,7 @@ Student Info App developed using Java/Spring Boot, ReactJs and its features.
 * Ajax
 * Hibernate
 * Hooks
+* Postman
 * Spring Boot
 * Spring Data
 * MySql
