@@ -1,5 +1,7 @@
 # StudentApplication
-## Technologies
+Student Info App developed using Java/Sprong Boot, ReactJs and its features.
+
+## Technologies Used
 * HTML/CSS
 * JavaScript
 * Java
