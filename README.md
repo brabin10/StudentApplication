@@ -1,1 +1,1 @@
-# View System System repo for details
+# View StudentSystem repo for details
