@@ -1,9 +1,10 @@
 import './App.css';
+import Appbar from './components/Appbar';
 
 function App() {
   return (
     <div className="App">
-      This is Rabin's codes.
+      <Appbar/>
     </div>
   );
 }
